@@ -1,0 +1,6 @@
+1. Two Table in DataBase ( Order , Items)
+2. I have assumed to keep all the Items IDs as a string with delimeter (,) in the column of Order Table
+3. /model           --> Stores all the defined struct ( used for interacting with json request , and Database)
+4. /database        --> Stores all the queries and their operations made to database and fetched from Database
+5. /main.go         --> Stors DB Setup , routing , and the function definitions on those routes
+6. ./sql_DB_Table   --> Stores the Database queries to be made on DataBase Server

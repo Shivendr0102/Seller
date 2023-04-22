@@ -1,0 +1,8 @@
+CREATE DATABASE ASSIGNMENT01;
+
+CREATE TABLE [Url_Table] (
+    Id VarChar
+    RawUrl VarChar
+    ShortenedURL VarChar 
+    Date_Time VarChar
+);

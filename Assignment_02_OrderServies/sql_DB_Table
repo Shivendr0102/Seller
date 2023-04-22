@@ -1,0 +1,16 @@
+CREATE DATABASE ASSIGNMENT02;
+
+CREATE TABLE [Order] (
+    ID VarChar
+    Order_Status VarChar
+    Items VarChar 
+    Total VarChar
+    CurrencyUnit VarChar
+);
+
+CREATE TABLE [Items] (
+    ID  VarChar
+    Item_Description VarChar
+    Item_Price VarChar
+    Item_Quantity VarChar
+)

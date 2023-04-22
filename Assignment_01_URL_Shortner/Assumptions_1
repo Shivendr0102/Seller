@@ -1,0 +1,7 @@
+1. Encoding         -->    I have manually shortened url on the basis of key .
+2. Key              -->    It contains [0-9] , [a-z] , [A-Z]
+3. UniqueNess       -->    In the end of Encoded URL , Add Counter Key in the end ( Counter Key is always unique )
+4. /model           --> Stores all the defined struct ( used for interacting with json request , and Database)
+5. /database        --> Stores all the queries and their operations made to database and fetched from Database
+6. /main.go         --> Stors DB Setup , routing , encode function and the function definitions on those routes
+7. ./sql_DB_Table   --> Stores the Database queries to be made on DataBase Server

@@ -1,0 +1,8 @@
+Tech Stack used : GoLang
+DB Used         : MS Sql Server
+
+
+To run :->
+
+Use go run main.go in Assignment_01_URL_Shortner/ 
+Use go run main.go in Assignment_02_OrderServies/ 
